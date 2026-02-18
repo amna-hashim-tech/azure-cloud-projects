@@ -1,0 +1,5 @@
+I am learning Linux on real Ubuntu
+I am practicing every day
+Day 2 - Learning SSH keys and nano editor
+
+
